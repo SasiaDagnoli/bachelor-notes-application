@@ -1,0 +1,1 @@
+# bachelor-notes-application
